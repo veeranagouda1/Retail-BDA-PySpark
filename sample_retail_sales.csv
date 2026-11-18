@@ -1,0 +1,12 @@
+Date,Product,Category,Store,Customer,Quantity,Price,Payment,Sales
+2026-10-20,Rice,Groceries,Store A,C001,2,60,UPI,120
+2026-10-20,Milk,Dairy,Store A,C002,3,30,Cash,90
+2026-10-21,Bread,Bakery,Store B,C001,2,40,Card,80
+2026-10-21,Shampoo,Personal Care,Store B,C003,1,120,UPI,120
+2026-10-22,Rice,Groceries,Store A,C004,5,60,Cash,300
+2026-10-23,Cake,Bakery,Store B,C005,2,250,UPI,500
+2026-10-23,Coffee,Beverages,Store B,C006,3,90,Card,270
+2026-10-23,Chocolate,Snacks,Store A,C007,10,25,UPI,250
+2026-10-24,Rice,Groceries,Store A,C010,5,60,UPI,300
+2026-10-24,Shampoo,Personal Care,Store B,C012,1,120,Card,120
+2026-10-25,Coffee,Beverages,Store C,C014,1,90,UPI,90
